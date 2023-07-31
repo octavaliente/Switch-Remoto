@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        <h1>Ingrese su SSID y Password</h1>
+        <form action="/SetWifi" method="post">
+            <h3 for="post-ssid">SSID:</h3>
+            <input id="post-ssid" type="text" name="ssid">
+            <h3 for="post-password">Contraseña:</h3>
+            <input id="post-password" type="text" name="password">
+            <p><button class="button" type="submit">Conectar</button></p>  
+        </form>
+    </div>
+</body>
+</html>

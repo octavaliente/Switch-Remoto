@@ -1,0 +1,17 @@
+porta pilas AA,
+Pilas,
+modulo rx,
+modulo tx
+esp01 (esp8266)
+arduino nano
+plaqueta 6x4
+modulo relé,
+cables, 
+enchufe hembra trifasica,
+enchufe macho trifasica,
+
+transformador de un cargador ( preguntar )
+
+
+
+
